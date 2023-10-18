@@ -1,0 +1,4 @@
+/* Classe CSS qui rend un élément invisible tout en conservant sa place. */
+.hide {
+    visibility: hidden;
+}
